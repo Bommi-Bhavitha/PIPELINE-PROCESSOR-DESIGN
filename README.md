@@ -25,3 +25,6 @@ This design will be developed using a Hardware Description Language (HDL) such a
 
 The final deliverable includes a working Verilog implementation of the 4-stage pipelined processor, along with simulation outputs that trace the operation of each instruction across all pipeline stages. This project provides a foundational understanding of pipelined architecture, preparing students for more advanced topics such as hazard detection, forwarding, and branch prediction in modern processor design.
 
+
+
+![Image](https://github.com/user-attachments/assets/9eb38aad-b7f7-4c5c-9f95-254bba6385f7)
